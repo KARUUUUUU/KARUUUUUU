@@ -1,7 +1,6 @@
 <p align="center">
-  <img src=https://images.hdqwalls.com/wallpapers/tokyo-retro-art-4k-yf.jpgwidth=1280" width="100%" alt="Karl's GitHub Banner" />
+  <img src="https://image.api.playgroundai.com/v2/image/6b22306f-6c17-488b-a70b-68d71629858d/0/4/e/0-1a73f8ff3da47053e1f13b1f14798c92?width=1280" width="100%" alt="Karl's GitHub Banner" />
 </p>
-
 # Hi, I'm Karl 👋 
 
 <p align="left">
