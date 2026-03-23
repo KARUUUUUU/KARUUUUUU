@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KARUUUUUU/KARUUUUUU/main/banner.png" width="100%" alt="Karl's GitHub Banner" />
 </p>
-Hi, I'm Karl 👋 
+<p align="center">
+  <img src="karl.png" width="40%" alt="Hi, I'm Karl" />
+</p>
+<br>
 <br>
 <br>
 <p align="left">
