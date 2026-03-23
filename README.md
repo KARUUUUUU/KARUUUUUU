@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<p align="left">
+<p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=KARUUUUUU&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="Stats Card" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KARUUUUUU&theme=tokyonight" height="150" alt="Streak Card" />
 </p>
